@@ -1,6 +1,10 @@
 import json
 
 
-with open('videoInfo.JSON')as f:
+with open('videos.json')as f:
     data = json.load(f)
-    print(data)
+
+for video in data["Info"]:
+    print(video)
+    if video['category'] == "Gaming":
+        print(video)

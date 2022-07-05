@@ -1,0 +1,34 @@
+{
+    "Info" : [
+        {
+            "URL": "5678",
+            "_id": {
+                "$oid": "62c1adc5a0ce5d7162b86481"
+            },
+            "category": "JSON",
+            "keyword": "JSON",
+            "title": "Access JSON file with python",
+            "unique_id": "dbc11148fdb04d0c96232b40c26f6f8a"
+        },
+        {
+            "URL": "https://vimeo.com/726468840",
+            "_id": {
+                "$oid": "62c1adc5a0ce5d7162b86482"
+            },
+            "category": "Gaming",
+            "keyword": "Gameplay",
+            "title": "valorant",
+            "unique_id": "7fcf439b2e2944bfa21dc0f19b2898f1"
+        },
+        {
+            "URL": "abcdef",
+            "_id": {
+                "$oid": "62c3d9f928117b9dab629394"
+            },
+            "category": "Gaming",
+            "keyword": "Gameplay",
+            "title": "Valorant",
+            "unique_id": "((uuid.uuid4()).hex)"
+        }
+    ]
+}
